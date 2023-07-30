@@ -1,0 +1,30 @@
+a {
+  text-decoration: none;
+  color: #6f542c;
+}
+
+a:hover {
+  color: #c0863a;
+}
+
+body {
+  background-color: #fff8c0;
+  font-size: 18px;
+  margin: 30px;
+  text-align: center;
+}
+
+img {
+}
+
+li {
+  display: inline;
+  list-style: none;
+  margin: 0 15px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
